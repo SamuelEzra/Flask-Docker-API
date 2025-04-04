@@ -1,2 +1,2 @@
-# RESTful-Api-with-Flask-and-Docker
+# Flask-Docker-API
 Building RESTful Api with Flask and Docker
